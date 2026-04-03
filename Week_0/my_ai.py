@@ -14,3 +14,8 @@ response = client.chat.completions.create(
 
 print("Response from OpenAI:")
 print(response.choices[0].message.content)
+
+# ADD YOU API KEY TO TERMINAL WHEN YOU WANT TO RUN THE CODE
+# export OPENAI_API_KEY=your_api_key_here
+#goodluck 
+#nife --js
